@@ -1,15 +1,17 @@
 fun main() {
 
-    // variaveu que pode mudar a o longo do codigo
-    var nome = "Tony"
-    nome ="Stark"
+    val nome = "Rafael"
+    val sobrenome = " Santos"
 
-    println(nome)
+    //concatenar
+    val nomeCompleto = nome+sobrenome
 
-    // variaveu constante e imutaveu
-    val nome2 = "Rafael"
+    println(nomeCompleto)
 
-    println(nome2)
+    //interpolar
+    println("Meu nome e $nomeCompleto")
+
+
 }
 
 
