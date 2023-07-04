@@ -1,14 +1,11 @@
 fun main() {
-    println("Ola mundo!")
+
+    var palavras: String
+    var numeros: Int
+
+    var nome = "Rafael Santos"
+
+    println(nome)
 }
 
-// Isso e um comentario dentro do codigo em kotlin
 
-/* comentario
- de
- varias linhas
- */
-
-/**
- * Comentario de documentacao
- */
