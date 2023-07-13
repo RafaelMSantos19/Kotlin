@@ -1,15 +1,8 @@
-import kotlin.math.*
+import  exercioFuncoes
 
 fun main() {
 
-    println(max(5, 3))
-    println(min(5, 3))
-    println(sqrt(45.689))
-    println(PI)
-    println(E)
-    println(round(541.0002212122212))
-
-
+    exercioFuncoes()
 
 }
 
